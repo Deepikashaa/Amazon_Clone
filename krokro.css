@@ -1,0 +1,28 @@
+.loader{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    background-color: goldenrod;
+    border: 20px solid darkcyan;
+    border-top: 25px solid hotpink;
+    animation: spinanimate 4s steps(6) 1s infinite alternate;
+    text-align: center;
+
+
+
+}
+
+@keyframes spinanimate{
+    from{
+        transform: rotate(0deg);
+        background-color: blue;
+        font-size: 15px white;
+        text-align: center;
+    }
+    to{
+        transform: rotate(360deg);
+        background-color: brown;
+        font-size: 50px black;
+        text-align: center;
+    }
+}

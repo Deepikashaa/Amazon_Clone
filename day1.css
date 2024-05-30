@@ -1,0 +1,14 @@
+body{
+    color: beige;
+    background: url(_DSC0241.JPG);
+}
+li{
+    color: blue;
+}
+.first{
+    color: brown;
+}
+#sn{
+    color: purple;
+    border: 2px dashed peru;
+}

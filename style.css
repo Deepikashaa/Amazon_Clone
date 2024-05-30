@@ -1,0 +1,18 @@
+body{
+    background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Flionrecoveryfund.org%2Fthe-perilous-life-of-male-lions%2F&psig=AOvVaw3i8LJsrULsyIogvOb16sgH&ust=1713960666881000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiB8Zmn2IUDFQAAAAAdAAAAABAE);
+}
+h1{
+    color: #c5f542;
+}
+div{
+    background-color: blueviolet;
+    border: 10px darkgoldenrod dotted;
+}
+
+span{
+    background-color: blue;
+}
+li{
+    color: brown;
+}
+                   

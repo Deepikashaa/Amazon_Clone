@@ -1,0 +1,28 @@
+body{
+    font-family: "Jersey 10", sans-serif;
+    background-color: rgb(50,50,0);
+    color: blueviolet;
+    text-align: center;
+    border: 40px solid goldenrod;
+    border-top: 0px;
+    margin: 0%;
+}
+p{
+    text-align: center;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+form{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+#sub{
+    background-color: salmon;
+    height: 80px;
+    width: 100px;
+    margin: 6px;
+    margin-top: 12px;
+    font-size: .6em;
+    border-radius: 25px;
+}
